@@ -1,0 +1,21 @@
+# EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA
+
+##  Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas.
+
+###  Ciclo do PDCA (plan ou planejar, do ou fazer, check ou checar e act ou agir).
+
+O **método PDCA** (Plan-Do-Check-Act ou Planejar-Fazer-Checar-Agir) emerge como uma solução fundamental para as empresas que desejam aprimorar seus processos, produtos e serviços de maneira sistemática e eficaz.
+
+[![](images/2.1.1.1_ciclo-do-PDCA.png){fig-align="right"}](https://www.siteware.com.br/blog/metodologias/ciclo-pdca/)
+
+###  Diagnóstico organizacional através das ferramentas.
+
+###  Definição de programas e projetos.
+
+###  Estabelecimento de objetivos, metas e indicadores organizacionais.
+
+###  Métodos de desdobramento de objetivos e metas e elaboração de planos de ação e mapas estratégicos.
+
+###  Implementação de estratégias.
+
+###  Metodologias para avaliação de desempenho. Indicadores de desempenho: conceito, formulação e análise.

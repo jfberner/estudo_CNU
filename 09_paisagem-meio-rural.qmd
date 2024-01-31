@@ -1,0 +1,15 @@
+# EIXO TEMÁTICO 3 – CARACTERIZAÇÃO DA PAISAGEM NO MEIO RURAL
+
+##  Caracterização e uso dos solos:
+
+###  Uso atual da terra e avaliação da aptidão agrícola dos solos.
+
+##  Hidrologia, Meteorologia e Condições Climáticas: ciclo hidrológico e balanço hídrico; águas superficiais, subterrâneas e de chuva.
+
+##  Fitossanidade e presença de pragas: estudo de doenças das plantas (Fitopatologia); pragas quarentenárias e não quarentenárias regulamentadas; áreas de alta prevalência de pragas, áreas de baixa prevalência de pragas e áreas livres de pragas.
+
+##  Cartografia, Geodésia, Geoprocessamento, Sistema de informação geográfica (SIG), Modelagem e estatística de dados georreferenciados: Fundamentos da Topografia, técnicas de levantamento topográfico e geodésico.
+
+###  Sistemas Geodésicos de Referência.
+
+###  Transformação entre referenciais terrestres e atualização de coordenadas.
