@@ -2,11 +2,48 @@
 
 ## Estado de direito e a Constituição Federal de 1988: consolidação da democracia, representação política e participação cidadã.
 
+O art. 1° da CF88 define o Estado Brasileiro como uma democracia **representativa** e **participativa**.
+
+**Estado de Direito**: sistema em que o poder é limitado pela lei, garantindo direitos fundamentais e igualdade perante a lei.
+
+O Estado de Direito é fundamentado na supremacia da lei e no respeito aos direitos individuais. A Constituição Federal de 1988 é um marco importante para a consolidação da democracia no Brasil, estabelecendo princípios que promovem a representação política e a participação cidadã. Garante a soberania popular - o povo como o titular legítimo do poder, não sendo, portanto, mais admissível que fosse exercido contra o seu próprio titular.
+
+### Representação Política - Partidos Políticos
+
+**Leitura: Direito Constitucional, Celso Spitzcovsky & Leda Pereira da Mota (9a edição). Capítulo 46 Partidos Políticos**
+
+O cerne do conceito de democracia está na noção de governo do povo, revelada pela própria etimologia do termo. Tendo em vista a extrema complexidade das relações sociais que permeiam todo o Estado moderno, mostrou-se inviável a utilização da chamada democracia direta, lançando-se mão da denominada **democracia representativa** na qual o povo, por eleições livres, na qualidade de titular do poder do Estado, elege seus representantes para o exercício de um mandato em seu nome e na defesa de seus interesses.
+
+O modo de exercício da representatividade é através de partidos políticos, por aglutinarem em torno de si os potenciais representantes de uma determinada tendência política. Sobre os partidos:
+
+-   **Importância**: surgem como instrumentos para a viabilização da democracia representativa, uma vez que a filiação partidária surge como requisito de elegibilidade (art. 14 §3° V)
+-   **Personalidade jurídica**: São pessoas jurídicas de direito privado, demandando o cumprimento das exigências formuladas no art. 17 §2°da CF88
+-   **Competências**:
+    -   Ajuizamento de ADINs, ADPFs, e ADECONs (art. 103 VIII)
+    -   Ajuizamento de MS coletivo (art. 5° LXX "a")
+    -   Propositura de denúncia de Irregularidades ou ilegalidades perante os Tribunais de Contas (art. 74 §1°)
+-   **Autonomia**:
+    -   Liberdade de criação, fusão, incorporação e extinção
+    -   Autonomia para a definição de estrutura, organização e funcionamento, inclusive para coligações (art. 17)
+    -   Fidelidade partidária (art. 17 §1°)
+-   **Princípios constitucionais a serem observados**:
+    -   Soberania nacional
+    -   Regime democrático
+    -   Pluripartidarismo
+    -   Direitos fundamentais da pessoa humana
+    -   Caráter nacional
+    -   Proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros
+    -   Prestação de contas à Justiça Eleitoral
+
+### Sobre a Participação Cidadã
+
 **Leitura: Modelos Contemporâneos de Democracia e o Papel das Associações (Lígia Helena Hahn Lüchmann, Rev. Sociol. Polít., Curitiba, v. 20, n. 43, p. 59-80, out. 2012)**
+
+Exercício da Cidadania é requisito central para a ruptura com o ciclo de subordinação e de injustiças sociais (Pateman 1992); Para Barber (1984), “ cidadania” significa participação ativa na vida pública, o envolvimento com os outros na constituição de um engajamento comum.
 
 -   **Democracia Liberal:** concebe a democracia como um mecanismo de escolha de líderes políticos mediante a competição, entre os partidos, pelo voto, equiparando a dinâmica política ao jogo do mercado (MACPHERSON, 1978);
 
--   **Democracia participativa:** o foco central é o resgate dos ideais de autogoverno e de soberania popular por meio da participação dos cidadãos nos processos de discussão e de decisão política. Os participacionistas incor- poram – ou combinam – pressupostos da democracia direta no interior da democracia representativa, dando ênfase à inclusão dos setores excluídos do debate político e à dimensão pedagógica da política. Predomínio das “associações secundárias” (ver abaixo), com destaque aos movimentos sociais e comunitários.
+-   **Democracia participativa:** o foco central é o resgate dos ideais de autogoverno e de soberania popular por meio da participação dos cidadãos nos processos de discussão e de decisão política. Os participacionistas incorporam – ou combinam – pressupostos da democracia direta no interior da democracia representativa, dando ênfase à inclusão dos setores excluídos do debate político e à dimensão pedagógica da política. Prevê mecanismos de participação como plebiscitos, referendos e ação popular. Predomínio das “associações secundárias” (ver abaixo), com **destaque aos movimentos sociais e comunitários.**
 
 -   **Democracia Associativa:** assume, de maneira mais enfática, e como revelado em sua própria denominação, o papel das associações nos processos de aprofundamento e de ampliação da democracia. Argumentos giram em torno da constatação dos diagnósticos acerca dos limites dos atores e das instituições políticas tradicionais (estados e partidos) frente ao acelerado aumento da complexidade dos fenômenos sociais. Destaca autonomia e voluntariado, que coloca as associações autônomas, voluntárias e/ou os movimentos sociais como atores centrais do conceito de sociedade civil.
 
@@ -20,36 +57,123 @@
 
     -   Associações Terciárias: os grupos de interesses e profissionais, nos quais os membros são relativamente anônimos entre si e têm pouco em comum, a não ser uma proposta específica a que perseguem
 
--   Exercício da Cidadania é requisito central para a ruptura com o ciclo de subordinação e de injustiças sociais (Pateman 1992); Para Barber (1984), “ cidadania” significa participação ativa na vida pública, o envolvimento com os outros na constituição de um engajamento comum;
+## Divisão e coordenação de Poderes da República.
 
-##  Divisão e coordenação de Poderes da República.
+**Leitura: Direito Constitucional, Celso Spitzcovsky & Leda Pereira da Mota (9a edição). Capítulo 13 Tripartição de Poderes.**
 
-##  Presidencialismo como sistema de governo: noções gerais, capacidades governativas e especificidades do caso brasileiro.
+O exercício do poder estatal é dividido em três funções, desde a sua origem, na Antiguidade grega: a função de criar normas que seriam obedecidas por toda a comunidade (o Poder **Legislativo**); a função de administrar a execução dessas normas (o Poder **Executivo**); e a função de julgar os litígios decorrentes da aplicação dessas normas genéricas e abstratas (Poder **Judiciário**). Foi em contestação ao Estado Absolutista que Montesquieu surgiu com a ideia de dividir as diferentes funções entre órgãos **distintos e autônomos**, não subordinados entre si e controladores um do outro (sistema de Freios e Contrapesos).
 
-##  Efetivação e reparação de Direitos Humanos: memória, autoritarismo e violência de Estado.
+No Brasil, assim como a grande maioria dos estados modernos, adotou-se a teoria de Montesquieu abrandada, em nome de uma maior viabilidade da teoria:
 
-##  Programa Nacional de Direitos Humanos PNDH-3 (Decreto nº 7.037/2009).
+-   Se o Judiciário não pudesse legislar em alguns momentos, isso implicaria a submissão à vontade do Poder Legislativo para editar as normas necessárias a seu funcionamento;
+-   Se o Legislativo dependesse do Executivo para a contratação de funcionários, ficaria nas mãos deste, tendo em vista ser essa matéria de competência típica do Poder Executivo
 
-##  Combate às discriminações, desigualdades e injustiças: de renda, regional, racial, etária e de gênero.
+Assim, foi positivada uma separação de funções do Estado que, de um lado, garantia a independência de cada um dos órgãos exercentes desse Poder e, de outro, assegurava seu funcionamento harmônico - que lhes permite, em caráter não preponderante, uma parcela de competência própria do outro Poder (**funções atípicas**, que lhe é atrubuída constitucionalmente).
 
-##  Desenvolvimento sustentável, meio ambiente e mudança climática.
+## Presidencialismo como sistema de governo: noções gerais, capacidades governativas e especificidades do caso brasileiro.
+
+### Noções Gerais
+
+**Leitura: Direito Constitucional, Celso Spitzcovsky & Leda Pereira da Mota (9a edição). Capítulo 18 Poder Executivo.**
+
+A função executiva compreende o exercício de dois papéis distintos: a chefia de Estado (responsável pela representação do Estado nas relações internacionais) e a chefia de Governo (responsável pelo estabelecimento das diretrizes políticas e administrativas que deverão ser seguidas internamente). Se os dois papéis são desempenhados por um só órgão, é um sistema de **Governo Presidencialista**. Se são exercidas por órgãos diferentes, o sistema de Governo é **Parlamentarista**.
+
+O presidente é o chefe das Forças Armadas e nomeia seus comandantes. Ele também nomeia os ministros do Supremo Tribunal Federal, seus ministros de Estado e de muitos outros cargos de importância da administração pública brasileira.
+
+No presidencialismo, o Presidente da República coordena a Administração, as Forças Armadas, a direção e orientação da política externa e interna, auxiliado por um grupo de assessores demissíveis a qualquer momento - os Ministros de Estado.
+
+Muitos cientistas políticos classificam o **presidencialismo no Brasil como de coalizão**, como forma de demonstrar a importância do Legislativo para a posição do presidente. Isso porque é fundamental para o presidente ter uma base aliada no Legislativo para que ele possa ter apoio nos seus projetos ao longo de seu mandato.
+
+É também função do Presitende Sancionar, publicar, e fazer publicar as leis, bem como expedir os decretos e regulamentos para sua fiel execução (art. 84 inc. IV)
+
+### Capacidades Governativas no Presidencialismo
+
+**Capacidades governativas:** o conjunto de elementos que possibilitam aos governos orientar o desenvolvimento em seus territórios. São elas a fiscalidade, os instrumentos e os recursos institucionais, políticos e humanos para o planejamento, a execução e a coordenação de políticas públicas.
+
+O Presidente detém considerável poder de decisão e execução, o que facilita a implementação rápida de políticas, especialmente em situações de crise.
+
+### Especificidades do caso brasileiro
+
+Pluripartidário, o que frequentemente resulta em uma fragmentação partidária no Legislativo - e leva à "coalizão" pelos desafios na constituição de maiorias consistentes nas Casas, o que leva invariavelmente (pelo por mim observado) a incoerências políticas.
+
+Desafios como instabilidade política e exemplos práticos como o impeachment ilustram as características do presidencialismo.
+
+## Efetivação e reparação de Direitos Humanos: memória, autoritarismo e violência de Estado.
+
+A efetivação e reparação de Direitos Humanos são pilares fundamentais para construir uma sociedade justa e respeitadora dos direitos individuais. No contexto brasileiro, a memória, o enfrentamento ao autoritarismo e a superação da violência de Estado são temas cruciais nesse processo.
+
+É a garantia prática e concreta dos direitos fundamentais e dos direitos previstos na Declaração Universal dos Direitos Humanos.
+
+**Os Direitos Fundamentais** são classificados em direitos de primeira geração (liberdades públicas e os direitos e garantias individuais clássicos), de segunda geração (direitos econômicos e culturais) e de terceira geração (direitos de solidariedade e direitos difusos como o direito do consumidor e ao meio ambiente equilibrado)
+
+São os direitos fundamentais, listados no art. 5° da Constituição Federal: Direitos individuais em espécie; Direito à vida; Princípio de Igualdade; Princípio da Legalidade; Liberdade de manifestação do pensamento; Liberdade de consciência, de crença e de culto; Liberdade de informação; Liberdade de locomoção; Liberdade de reunião; Liberdade de associação; Direito à segurança; Intimidade, vida privada, honra e imagem; Inviolabilidade do domicílio; Inviolabilidade das comunicações interpessoais; Comunicação por correspondência; Comunicação telegráfica; Comunicação de dados, sigilo bancário e fiscal; Comunicação telefônica; Acesso ao Poder Judiciário; Irretroatividade da Lei; Devido Processo Legal; Segurança em matérial penal; Direito de Propriedade.
+
+Outros direitos fundamentais não mencionados explicitamente no Título II da CF88 são: direito do consumidor, ao meio ambiente saudável, à saúde, etc.
+
+**Leitura: Quais Direitos Humanos? Que Universalismo? Preliminares e Obstáculos à Universalização do Direito. Maria Lucia de Paula Oliveira. Primeiro artigo da parte 2 do livro *Direitos Humanos, Democracia e Desenhos Institucionais em tempos de crise.* ISBN: 978-85-7987-351-5.**
+
+### Reparação de Direitos Humanos: 
+
+**Contexto Histórico no Brasil:**
+
+-   Necessidade de reparação por violações ocorridas durante o regime autoritário (1964-1985).
+
+**Comissões da Verdade:**
+
+-   Criadas para investigar violações de Direitos Humanos durante o período autoritário.
+
+-   Contribuem para a memória e justiça histórica.
+
+### Memória, Autoritarismo e Violência de Estado: 
+
+Preservação da Memória:
+
+-   Importância de lembrar e reconhecer os eventos do passado para evitar a repetição de injustiças.
+
+Enfrentamento ao Autoritarismo:
+
+-   Promover a democracia e garantir que atos autoritários não se repitam.
+
+Superar a Violência de Estado:
+
+-   Desenvolver políticas que assegurem que o Estado não seja um agente de violência contra os cidadãos.
+
+## Programa Nacional de Direitos Humanos PNDH-3 (Decreto nº 7.037/2009).
+
+## Combate às discriminações, desigualdades e injustiças: de renda, regional, racial, etária e de gênero.
+
+## Desenvolvimento sustentável, meio ambiente e mudança climática.
+
+### Meio Ambiente e o Conceito de Desenvolvimento sustentável
 
 **Leitura: Direitos Humanos, Desenvolvimento Sustentável e Luta contra as Desigualdades (Emerique, Berner & Puig - 2020). Artigo: "Do direito ambiental aos direitos da mãe terra: do paradigma ambientalismo-sustentabilidade à harmonia com a natureza" (Freire & Moraes, p.84)**
 
 O artigo faz um percurso do direito ambiental em passos de 20 anos: atitude crítica ao desenvolvimentismo (I Conferência da ONU para o Meio Ambiente - Stockholm 1972), sucedida pela tentativa de equalização do conceito do desenvolvimento sustentável (Rio-92), até a mudança mais recente para o ecocentrismo sob o marco do Programa Harmonia com a Natureza das Nações Unidas e da Declaração Internacional dos Direitos da Mãe-Terra/Pachamama/Natureza (2012).
 
--   **Primórdios do ambientalismo:** décadas de 1940-70. Pontapé inicial pelo livro *Silent Spring* (Rachel Carlson 1962), que demonstrava de forma lúdica e irrefutável a associação entre uso de agrotóxicos e perda de biodiversidade. Outro aspecto relevante foi o *Relatório Meadows* (a.k.a. *The Limits of Growth -* Donella Meadows, MIT, 1972), que simula o crescimento populacional e aponta para o esgotamento dos recursos da Terra. Aspectos culturais do final da década de 60 que denunciavam a cultura consumista, industrial e capitalista também foram muito relevantes à época em moldar o movimento ambientalista e o nascimento do Direito Ambiental. O ambientalismo alertava pra coisificação da natureza, mas ainda assim - e inevitavelmente - nasceu fortemente antropocêntrico e humanista. Antes da I Conferência da ONU para o Meio Ambiente (Estocolmo 1972), outros movimentos ambientalistas puderam ser observados no direito ambiental internacional:
-    -   Tratado de Moscou (1963): no nukes
-    -   Tratado de Não Proliferação de Armas Nucleares (Genebra 1963)
-    -   Tratado de proibição de colocação de armas nucleares nos leitos dos mares e oceanos (Londres 1971)
-    -   Tratado de Tlatelolco (Ciudad de México 1967) não proliferação de armas nucleares na América Latina
-    -   Tratado da Bacia do Prata (Brasília 1969): utilização racional dos recursos naturais para o futuro
-    -   Convenção Internacional para a Conservação do Atum e afins (Rio de Janeiro 1966)
-    -   Convenção Africana para a Conservação da Natureza e Recursos Naturais (Argel 1966)
-    -   Convenção de Ramsar (Irã 1974): relativa a zonas úmidas de importância internacional particularmente como *habitat* das aves aquáticas
-    -   Convenção sovre a Responsabilidade Civil por danos causados por poluição por Óleo (Bruxelas 1969): marco na responsabilidade civil ambiental.
-    -   E por fim, a própria **Declaração de Estocolmo** (I Conferência da ONU para o Meio Ambiente): o primeiro documento jurídico marco do nascimento do Direito Ambiental - que deu a largada para que todos os países internalizassem uma legislação própria com base em uma nova principiologia - o meio ambiente como um valor a ser mensurado, protegido e valorizado. Tem um cunho expressivamente antropocêntrico, com [o ser humano como único sujeito de direitos]{.underline}.
--   **Do ambientalismo à Sustentabilidade.** O marco aqui é a Rio-92. Pouco antes, cunha-se o conceito de Desenvolvimento Sustentável no *Relatório Nosso Futuro Comum* (a.k.a. *Relatório Bundtland*, 1987), que virá a ser o tema central da Conferência: "*o desenvolvimento que procura satisfazer as necessidades da geração atual, sem comprometer a capacidade das gerações futuras de satisfazerem as suas próprias necessidades.".* Essa definição abriu a porteira pra boiada do Capital monetizar a Natureza:
-    -   Gudynas, 1999, p.107: estas posturas expandem a racionalidade econômica mantendo o mesmo propósito de instrumentalização e manupulação, assim como o antropocentrismo, onde o valor da natureza está dado pelos valores de uso e mudança atribuídos pelo ser humano. Podería-se contabilizar a Natureza em dinheiro, e portanto a proteção do ambiente em realidade seria uma forma de investimento.
-    -   Com o termo surrupiado, diversos autores passaram a desacreditar do conceito de sustentabilidade, e movimentos se formam em torno de novas propostas.
--   
+#### **Primórdios do ambientalismo:** décadas de 1940-70.
+
+Pontapé inicial pelo livro *Silent Spring* (Rachel Carlson 1962), que demonstrava de forma lúdica e irrefutável a associação entre uso de agrotóxicos e perda de biodiversidade. Outro aspecto relevante foi o *Relatório Meadows* (a.k.a. *The Limits of Growth -* Donella Meadows, MIT, 1972), que simula o crescimento populacional e aponta para o esgotamento dos recursos da Terra. Aspectos culturais do final da década de 60 que denunciavam a cultura consumista, industrial e capitalista também foram muito relevantes à época em moldar o movimento ambientalista e o nascimento do Direito Ambiental. O ambientalismo alertava pra coisificação da natureza, mas ainda assim - e inevitavelmente - nasceu fortemente antropocêntrico e humanista. Antes da I Conferência da ONU para o Meio Ambiente (Estocolmo 1972), outros movimentos ambientalistas puderam ser observados no direito ambiental internacional:
+
+-   Tratado de Moscou (1963): no nukes
+-   Tratado de Não Proliferação de Armas Nucleares (Genebra 1963)
+-   Tratado de proibição de colocação de armas nucleares nos leitos dos mares e oceanos (Londres 1971)
+-   Tratado de Tlatelolco (Ciudad de México 1967) não proliferação de armas nucleares na América Latina
+-   Tratado da Bacia do Prata (Brasília 1969): utilização racional dos recursos naturais para o futuro
+-   Convenção Internacional para a Conservação do Atum e afins (Rio de Janeiro 1966)
+-   Convenção Africana para a Conservação da Natureza e Recursos Naturais (Argel 1966)
+-   Convenção de Ramsar (Irã 1974): relativa a zonas úmidas de importância internacional particularmente como *habitat* das aves aquáticas
+-   Convenção sovre a Responsabilidade Civil por danos causados por poluição por Óleo (Bruxelas 1969): marco na responsabilidade civil ambiental.
+-   E por fim, a própria **Declaração de Estocolmo** (I Conferência da ONU para o Meio Ambiente): o primeiro documento jurídico marco do nascimento do Direito Ambiental - que deu a largada para que todos os países internalizassem uma legislação própria com base em uma nova principiologia - o meio ambiente como um valor a ser mensurado, protegido e valorizado. Tem um cunho expressivamente antropocêntrico, com [o ser humano como único sujeito de direitos]{.underline}.
+
+#### **Do ambientalismo à Sustentabilidade**
+
+O marco aqui é a Rio-92. Pouco antes, cunha-se o conceito de Desenvolvimento Sustentável no *Relatório Nosso Futuro Comum* (a.k.a. *Relatório Bundtland*, 1987), que virá a ser o tema central da Conferência: "*o desenvolvimento que procura satisfazer as necessidades da geração atual, sem comprometer a capacidade das gerações futuras de satisfazerem as suas próprias necessidades.".* Essa definição abriu a porteira pra boiada do Capital monetizar a Natureza:
+
+-   Gudynas, 1999, p.107: estas posturas expandem a racionalidade econômica mantendo o mesmo propósito de instrumentalização e manupulação, assim como o antropocentrismo, onde o valor da natureza está dado pelos valores de uso e mudança atribuídos pelo ser humano. Podería-se contabilizar a Natureza em dinheiro, e portanto a proteção do ambiente em realidade seria uma forma de investimento.
+-   Com o termo surrupiado, diversos autores passaram a desacreditar do conceito de sustentabilidade, e movimentos se formam em torno de novas propostas.
+
+#### **Da sustentabilidade à sustentabilidade super-forte: Harmonia com a Natureza e direitos da Mãe-Terra**
+
+O mundo seguiu. A América Latina, através dos processos e movimentos progressistas da virada do século viram o surgir da incorporação dos direitos da Natureza (ou o reconhecimento da Natureza como sujeito de direitos) às constituições do Equador, da Bolívia e da Venezuela.
+
+No Brasil, segue-se buscando o desenvolvimento sustentável enquanto pratica-se o neodesenvolvimentismo à base do extrativismo desenfreado dos recursos naturais - seja em governos progressistas ou de extrema-direita, a exploração do Meio Ambiente como recurso ainda é o paradigma por aqui.
