@@ -1,11 +1,252 @@
-#  FINANÇAS PÚBLICAS
+# FINANÇAS PÚBLICAS
 
-##  Atribuições econômicas do Estado.
+**Leitura: Direito Constitucional. Celso Spitzcovsky & Leda Pereira da Mora. 9a Edição. Capítulo 24 - Finanças Públicas e Orçamento.**
 
-##  Fundamentos das finanças públicas, tributação e orçamento.
+## Aspectos Gerais
 
-##  Financiamento das Políticas Públicas: estrutura de receitas e despesas do Estado brasileiro.
+O termo **finanças públicas** abrange todas as vertentes relacionadas com a atividade financeira do Estado. O que se estudará aqui são as diretrizes estipuladas pela Lei Maior quanto às formas de captação dos recursos, bem como os limites para a realização de despesas.
 
-##  Noções de orçamento público: Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO) e Lei Orçamentária Anual (LOA).
+A Constituição apenas estabelece as normas gerais sobre esse tema, e deixa para o legislador infraconstitucional regulamentação por meio de lei complementar. Como esta lei ainda não foi editada, vêm-se utilizando as disposições contidas na Lei 4.320/1964 que estatui normas gerais do Direito Financeiro para a elaboração e controle dos orçamentos e balanços da União, Estados+DF e Municípios.
 
-##  Federalismo fiscal no Brasil; Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000).
+Conceitos básicos:
+
+1.  **Orçamento Público**: instrumento de controle da atividade da Administração na medida em que permite a ela a fixação de um planejamento quanto às despesas a serem realizadas e às receitas a serem arrecadadas.
+    -   Princípios Orçamentários:
+        -   Universalidade: Inclusão de todas as receitas e despesas.
+        -   Anualidade: Valores para um exercício financeiro.
+        -   Programação: Detalhamento das ações governamentais.
+        -   Exclusividade: Apenas por meio de lei podem ser criadas despesas ou aumentadas as existentes. Não se pode incluir na lei orçamentária dispositivo estranho à fixação da despesa e à previsão da receita.
+2.  Receitas e Despesas Públicas:
+    -   **Receitas Públicas**: Valores arrecadados pelo governo. Podem ser tributárias (impostos, taxas, contribuições) e não tributárias (receitas patrimoniais, industriais, agropecuárias, serviços).
+    -   **Despesas Públicas**: Gastos realizados pelo setor público. Classificam-se em correntes (manutenção) e de capital (investimentos).
+3.  **Dívida Pública**: Valor que o governo deve a terceiros.
+    -   Objetivos: Financiar projetos e equalizar o fluxo de caixa.
+    -   Modalidades: Interna (emitida no país) e externa (emitida no exterior).
+    -   Gestão: Busca de equilíbrio entre a necessidade de recursos e o impacto fiscal.
+4.  **Créditos** Adicionais:
+    -   Suplementares: reforço nas dotações orçamentárias.
+    -   Especiais: Despesas para as quais não há dotação orçamentária (não previstas no orçamento).
+    -   Extraordinários: despesas urgentes e imprevistas, em caso de guerra, comoção intestina ou calamidade pública.
+5.  **Plano Plurianual:** de iniciativa do chefe do Executivo, tem por objetivo estabelecer de forma regionalizada as diretrizes, objetivos e metas da Administração Pública (art. 165 §1°).
+6.  **Lei de Diretrizes Orçamentárias (LDO):** de iniciativa do chefe do Executivo, tem por objetivo prever as metas e prioridades da Administração para o exercício financeiro subsequente. Orienta a elaboração da Lei Orçamentária Anual (art. 165 §2°).
+
+## Atribuições econômicas do Estado.
+
+A Constituição reservou para o Estado a possibilidade de atuar na ordem econômica de quatro formas diferenciadas:
+
+-   **Como explorador da atividade econômica** (art. 173): permitida para a União, Estados+DF e Municípios - que só poderão atuar quando necessária aos imperativos da segurança nacional ou relevante interesse coletivo. A atuação do Estado não dispõe de nenhuma prerrogativa que não seja estendida para o setor privado com que ele compete.
+
+-   **Como prestador de serviços públicos** (art. 175): a prestação de serviço público tem a sua titularidade sempre nas mãos da Administração com o intuito de proteger o interesse da coletividade. Por **serviço público** entende-se, pela classificação proposta pelo Ministro do STF Eros Grau, como aqueles que devem ser exercidos, por expressa disposição constitucional, pela União, Estados+DF e Municípios.\
+    A prestação do Serviço Público tem a sua titularidade sempre nas mãos da Administração com o intuito de proteger o interesse da coletividade. Essa prestação poderá ser **centralizada** (exercida pela Administração) ou **descentralizada** (concessão ou permissão; quando a execução é repassada para terceiros mediante regras estabelecidas pelo Poder Público).
+
+-   **Como executor de atividades monopolísticas** (art. 177):
+
+    -   A pesquisa e a lavra das jazidas de petróleo e gás natural e outros hidrocarbonetos fluidos;[(Vide Emenda Constitucional nº 9, de 1995)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc09.htm#art3)
+    -   a refinação do petróleo nacional ou estrangeiro;
+    -   a importação e exportação dos produtos e derivados básicos resultantes das atividades previstas nos incisos anteriores;
+    -   o transporte marítimo do petróleo bruto de origem nacional ou de derivados básicos de petróleo produzidos no País, bem assim o transporte, por meio de conduto, de petróleo bruto, seus derivados e gás natural de qualquer origem;
+    -   a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares e seus derivados, com exceção dos radioisótopos cuja produção, comercialização e utilização poderão ser autorizadas sob regime de permissão, conforme as alíneas b e c do inciso XXIII do caput do art. 21 desta Constituição Federal. [(Redação dada pela Emenda Constitucional nº 49, de 2006)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc49.htm#art2)
+
+    Observar que, para os itens 1 a 4 a União poderá contratar com empresas estatais ou privadas a realização das atividades previstas nos incisos I a IV deste artigo observadas as condições estabelecidas em lei. [(Emenda Constitucional nº 9, de 1995)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc09.htm#art3)
+
+-   **Como agente normativo e regulador** (art. 174): o Estado exercerá, na forma da lei, as funções de **fiscalização**, **incentivo** e **planejamento**, sendo este determinante para o setor público e indicativo para o setor privado. [(Vide Lei nº 13.874, de 2019)](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Lei/L13874.htm#art1)
+
+    -   **Fiscalização**: em que o Estado acompanha o comportamento da iniciativa privada em relação aos princípios balizadores da ordem econômica, impedindo e sancionando aqueles que extrapolem esses limites; destaca-se aqui a atuação não só de órgãos como o CADE e a Secretaria de Defesa Econômica, vinculados ao Ministério da Justiça para coibir o abuso do poder econômico (Lei 8.884/1994) mas, também, a atuação das chamadas Agências Reguladoras;
+
+    -   **Incentivo**: aqui o Estado atua estimulando o implemento e o desenvolvimento de atividades econômicas por meio da concessão de benefícios, surgindo como exemplo as hipóteses relacionadas nos arts. 170, IX, e 179;
+
+    -   **Planejamento:** nesse particular, o Estado idealiza as diretrizes a serem implementadas quando do exercício de atividades econômicas, sendo elas determinantes tão-somente para o Poder Público e apenas indicativas para o setor privado, sob pena de esvaziamento do princípio da livre iniciativa.
+
+As atribuições econômicas do Estado referem-se ao papel desempenhado pelo governo na gestão e intervenção na economia. Estas são funções essenciais para promover o desenvolvimento, a justiça social e o equilíbrio macroeconômico.
+
+1.  **Regulação e Fiscalização:**
+    -   O Estado exerce o papel de regulador, criando normas e leis para orientar o funcionamento do mercado e proteger os interesses públicos.
+    -   A fiscalização visa garantir o cumprimento dessas normas, prevenindo abusos e assegurando a transparência e a equidade.
+2.  **Política Monetária e Cambial:**
+    -   O Estado, por meio de suas instituições financeiras, exerce controle sobre a oferta de moeda e taxa de juros para manter a estabilidade econômica.
+    -   Intervém no mercado cambial para controlar a taxa de câmbio e equilibrar as transações comerciais internacionais.
+3.  **Investimentos em Infraestrutura:**
+    -   O Estado é responsável por investir em infraestrutura, como estradas, portos, energia e telecomunicações, promovendo o desenvolvimento econômico e a competitividade.
+4.  **Política Fiscal:**
+    -   Estabelece políticas tributárias para arrecadação de recursos, financiando as despesas públicas e promovendo a distribuição de renda.
+    -   Utiliza a política de gastos públicos para estimular a atividade econômica em momentos de recessão ou controlar a inflação em períodos de crescimento.
+5.  **Combate à Desigualdade Social:**
+    -   Implementa programas sociais e políticas de redistribuição de renda para reduzir disparidades socioeconômicas.
+6.  **Política Industrial e Tecnológica:**
+    -   Estimula setores estratégicos da economia, promovendo a inovação, a pesquisa e o desenvolvimento tecnológico.
+7.  **Participação em Empresas Estatais:**
+    -   Em certos casos, o Estado participa diretamente na gestão de empresas estatais para garantir serviços essenciais, como energia, transporte e comunicação.
+
+## Fundamentos das finanças públicas, tributação e orçamento.
+
+**Princípios do Direito Constitucional Tributário:**
+
+-   **Princípio da legalidade**: proibido exigir ou aumentar tributo sem lei que o estabeleça. A constituição enfraquece este dispositivo ao permitir a alteração das alíquotas por decreto (e não por lei).
+
+-   **Princípio da isonomia**: proibido instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos. A única exceção de distinção por capacidade contributiva é na cobrança de impostos (mas nem todos, e.g. o ICMS vs imposto de Renda);
+
+-   **Princípio da anterioridade**: no mesmo exercício financeiro em que tenha sido publicada a lei que os instituiu ou aumentou, não poderá ser cobrado nenhum tributo. As exceções, que têm aplicação em 90 dias e não no seguinte exercício fiscal, são:
+
+    -   imposto de importação de produtos estrangeiros;
+
+    -   exportação para o exterior de produtos nacionais ou nacionalizados;
+
+    -   imposto sobre produtos industrializados;
+
+    -   imposto sobre operações de crédito, câmbio e seguro ou relativas a títulos ou valores imobiliários.
+
+**Tipos de Tributos:**
+
+-   Impostos: Contribuições compulsórias sem contraprestação direta, como o Imposto de Renda.
+-   Taxas: Cobradas pela prestação de serviços públicos específicos, como a taxa de coleta de lixo.
+-   Contribuições: Destinadas a financiar a seguridade social.
+-   Progressividade e Proporcionalidade: Tributos podem ser proporcionais ou progressivos, de acordo com a capacidade contributiva do indivíduo
+
+**Ciclo Orçamentário:**
+
+-   **Elaboração**: Proposição do PPA, LDO e LOA.
+-   **Discussão** **e** **Aprovação**: Análise e votação pelo Legislativo.
+-   **Execução**: Implementação das ações previstas no orçamento.
+-   **Avaliação**: Verificação do cumprimento das metas e resultados alcançados.
+
+## Financiamento das Políticas Públicas: estrutura de receitas e despesas do Estado brasileiro.
+
+O financiamento das políticas públicas no Brasil envolve a captação de recursos, a gestão das receitas e a alocação desses recursos nas diferentes áreas de atuação do Estado.
+
+-   Receitas Públicas:
+    -   Receitas Tributárias:
+        -   Impostos: Exigidos sem contraprestação direta, como Imposto de Renda, ICMS e IPTU.
+        -   Taxas: Cobradas pela prestação de serviços específicos, como taxas de coleta de lixo e de licenciamento.
+        -   Contribuições Sociais: Destinadas à seguridade social, como a Contribuição para o Financiamento da Seguridade Social (Cofins).
+    -   Receitas Patrimoniais:
+        -   Renda de Bens e Direitos: Aluguel de imóveis públicos, royalties, entre outros.
+        -   Alienação de Bens: Venda de propriedades do Estado.
+    -   Receitas Agropecuárias e Industriais:
+        -   Exploração de Atividades Econômicas: Receitas provenientes da exploração de atividades agropecuárias, industriais e comerciais.
+    -   Transferências Correntes e de Capital:
+        -   Transferências Intergovernamentais: Recursos repassados entre entes federativos.
+        -   Transferências de Organismos Internacionais: Recursos provenientes de acordos e convênios com organismos internacionais.
+-   Despesas Públicas
+    -   Despesas Correntes:
+        -   Pessoal e Encargos Sociais: Gastos com servidores públicos.
+        -   Juros e Encargos da Dívida: Pagamento de juros e amortização da dívida pública.
+        -   Outras Despesas Correntes: Custeio de serviços públicos, como água, luz e material de escritório.
+    -   Despesas de Capital:
+        -   Investimentos: Gastos com obras e infraestrutura.
+        -   Inversões Financeiras: Aquisição de bens de capital e participações em empresas.
+        -   Amortização da Dívida: Pagamento do principal da dívida pública.
+    -   Transferências Correntes e de Capital:
+        -   Transferências Intergovernamentais: Recursos repassados entre entes federativos para financiar políticas específicas.
+        -   Transferências a Pessoas Físicas: Benefícios sociais, como aposentadorias ebolsas.
+-   Reserva de Contingência: Recurso para Despesas Imprevistas. Destinado a eventuais emergências não previstas no orçamento.
+
+Essa estrutura de receitas e despesas compõe o orçamento público, que é elaborado anualmente, e reflete as prioridades e políticas do governo. A gestão eficiente desses recursos é essencial para o alcance dos objetivos estabelecidos nas diferentes áreas de atuação do Estado.
+
+## Noções de orçamento público: Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO) e Lei Orçamentária Anual (LOA).
+
+Relação entre PPA, LDO e LOA:
+
+-   O PPA estabelece as diretrizes de longo prazo.
+-   A LDO define as metas e prioridades para o próximo ano, alinhadas ao PPA.
+-   A LOA detalha como serão alocados os recursos para a execução das políticas no ano seguinte, respeitando o que foi estabelecido na LDO.
+
+### Plano Plurianual – PPA
+
+Esse é o documento que traz as **diretrizes**, **objetivos** e **metas** de **médio prazo** da administração pública. Prevê, entre outras coisas, as grandes obras públicas a serem realizadas nos próximos anos. Ele tem vigência de **quatro anos**, portanto deve ser elaborado criteriosamente, imaginando-se aonde se quer chegar nos próximos quatro anos. Expressa a visão **estratégica** da gestão pública.
+
+O PPA inclui uma série de programas temáticos, em que são colocadas as metas (expressas em números) para os próximos anos em diversos temas. Para ilustrar melhor isso, vamos usar um exemplo: o governo federal elencou como objetivo no PPA do período 2012-2015 promover a implantação de novos projetos em áreas com potencial de ampliação da agricultura irrigada. Para atingir tal objetivo, estipulou uma meta: ampliar a área irrigada em 200 mil hectares até 2015.
+
+Os constituintes atribuíram grande importância ao PPA, como podemos ver no parágrafo 1° do artigo 167 da Constituição, que determina que nenhum investimento cuja execução ultrapasse um exercício financeiro (um ano) poderá ser iniciado sem ser incluído antes no PPA, sob pena de crime de responsabilidade. Um PPA sempre começa a **vigorar a partir do segundo ano do mandato presidencial**, terminando no primeiro ano do mandato seguinte.
+
+*O governo federal deve elaborar e entregar o PPA ao Congresso até o dia 31/08 do primeiro ano de mandato*. O Congresso, por sua vez, deve aprová-lo até o final do ano.
+
+### Lei de Diretrizes Orçamentárias – LDO
+
+A LDO é elaborada **anualmente** e tem como objetivo apontar as **prioridades do governo para o próximo ano**. ***Ela orienta a elaboração da Lei Orçamentária Anual, baseando-se no que foi estabelecido pelo Plano Plurianual***. Ou seja, é um elo entre esses dois documentos.
+
+Pode-se dizer que a LDO serve como um ajuste anual das metas colocadas pelo PPA. Algumas das disposições da LDO são: reajuste do salário mínimo, quanto deve ser o superávit primário do governo para aquele ano, e ajustes nas cobranças de tributos. É também a LDO que define a política de investimento das agências oficiais de fomento, como o BNDES.
+
+Enquanto o PPA é um documento de estratégia, pode-se dizer que **a LDO delimita o que é e o que não é possível realizar no ano seguinte**.
+
+No caso do governo federal, a LDO deve ser enviada até o dia 15 de abril de cada ano. Ela precisa ser aprovada até o dia 17 de julho (o recesso dos parlamentares é adiado enquanto isso não acontecer).
+
+### Lei Orçamentária Anual – LOA
+
+É o **orçamento anual propriamente dito**. Prevê os orçamentos fiscal, da seguridade social e de investimentos das estatais. **Todos os gastos do governo para o próximo ano são previstos em detalhe na LOA**. Você encontrará na LOA a estimativa da receita e a fixação das despesas do governo. É dividida por temas, como saúde, educação, e transporte. Prevê também quanto o governo deve arrecadar para que os gastos programados possam de fato ser executados. Essa arrecadação se dá por meio dos tributos (impostos, taxas e contribuições). Se bem feita, a LOA estará em harmonia com os grandes objetivos e metas estabelecidos pelo PPA.
+
+No caso da União, a LOA também deve ser enviada ao Congresso até o dia **31 de agosto** de cada ano. Deve ser aprovada pelos parlamentares até o fim do ano (**22 de dezembro**), mas não chega a adiar o recesso parlamentar se não for aprovada até lá.
+
+Vale notar que todos os três níveis de governo elaboram seus próprios documentos orçamentários, já que cada um possui suas próprias despesas e responsabilidades.
+
+## Federalismo fiscal no Brasil; Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000).
+
+**Repartição de Competências Tributárias**
+
+Diferentes entes Federativos atuam em diferentes campos tributários - cada uma tem sua **competência tributária**, definida como "a capacidade para a criação de tributos em abstrato.
+
+Impostos de Competência:
+
+-   **Da União**:
+    -   importação de produtos estrangeiros;
+    -   exportação, para o exterior, de produtos nacionais ou nacionalizados;
+    -   renda e proventos de qualquer natureza;
+    -   produtos industrializados;
+    -   operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários;
+    -   propriedade territorial rural;
+    -   grandes fortunas, nos termos de lei complementar.
+    -   produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, nos termos de lei complementar.[(Incluído pela Emenda Constitucional nº 132, de 2023)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc132.htm#art1)
+    -   mediante lei complementar, impostos não listados até aqui, desde que sejam não-cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição;
+    -   na iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua competência tributária, os quais serão suprimidos, gradativamente, cessadas as causas de sua criação.
+-   **Dos Estados e do Distrito Federal:**
+    -   transmissão causa mortis e doação, de quaisquer bens ou direitos;[(Redação dada pela Emenda Constitucional nº 3, de 1993)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc03.htm#art1)
+    -   operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior; [(Redação dada pela Emenda Constitucional nº 3, de 1993)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc03.htm#art1) [(Vide Emenda Constitucional nº 132, de 2023)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc132.htm#art22)
+    -   propriedade de veículos automotores. [(Redação dada pela Emenda Constitucional nº 3, de 1993)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc/emc03.htm#art1)
+-   **Dos Municípios:**
+    -   propriedade predial e territorial urbana;
+    -   transmissão "inter vivos", a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição;
+    -   serviços de qualquer natureza, não compreendidos no art. 155, II, definidos em lei complementar.[(Redação dada pela Emenda Constitucional nº 3, de 1993)](#0) [(Vide Emenda Constitucional nº 132, de 2023)](#0)
+
+O federalismo fiscal no Brasil refere-se à divisão de competências e responsabilidades financeiras entre os entes federativos (União, Estados, Municípios e Distrito Federal). A Lei de Responsabilidade Fiscal (LRF), estabelecida pela Lei Complementar nº 101/2000, é uma legislação fundamental que define as normas para a gestão fiscal responsável.
+
+**Transferências Intergovernamentais:**
+
+-   Mecanismos de redistribuição de recursos entre os entes federativos.
+-   Fundo de Participação dos Estados (**FPE**), Fundo de Participação dos Municípios (**FPM**), entre outros.
+
+**Responsabilidades e Despesas:**
+
+-   A União, os Estados, os Municípios e o Distrito Federal têm responsabilidades específicas em áreas como saúde, educação, segurança, etc.
+-   Cada ente deve arcar com as despesas relacionadas às suas competências.
+
+**Lei de Responsabilidade Fiscal (LRF):**
+
+-   Disciplina o gasto público, promovendo transparência e responsabilidade fiscal.
+-   Estabelece limites para despesas com pessoal e endividamento.
+-   Prevê mecanismos de controle e fiscalização.
+-   Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, com amparo no Capítulo II do Título VI da Constituição.
+    -   A **responsabilidade na gestão fiscal** pressupõe a ação planejada e transparente, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas, mediante o cumprimento de metas de resultados entre receitas e despesas e a obediência a limites e condições no que tange a renúncia de receita, geração de despesas com pessoal, da seguridade social e outras, dívidas consolidada e mobiliária, operações de crédito, inclusive por antecipação de receita, concessão de garantia e inscrição em Restos a Pagar
+
+**Princípios Fundamentais:**
+
+-   **Planejamento**: Estabelecimento de metas fiscais.
+-   **Transparência**: Divulgação de informações sobre a gestão fiscal.
+-   **Responsabilidade**: Atuação equilibrada e prudente na gestão dos recursos públicos.
+
+**Limites e Controles:**
+
+-   **Limites de Despesas com Pessoal**: Percentuais da receita corrente líquida (50% União, 60% Estados+DF+Municípios).
+-   **Limites para Endividamento**: Restrições para contratação de novas dívidas.
+-   **Gestão Transparente**: Audiências públicas, relatórios fiscais, entre outros.
+
+**Consequências para o Descumprimento:**
+
+O gestor público que descumprir as normas estabelecidas pela LRF pode sofrer sanções, como a impossibilidade de receber transferências voluntárias da União e a proibição de contrair empréstimos. A Lei Complementar nº 101/2000, conhecida como Lei de Responsabilidade Fiscal (LRF), é uma legislação fundamental que estabelece normas para a gestão fiscal responsável. [(Lei Complementar no 101/2000)](https://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp101.htm)
+
+-   **Art. 1°**: Esta Lei Complementar estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, com amparo no Capítulo II do Título VI da Constituição.
+-   **Art. 9°**: Se verificado, ao final de um bimestre, que a realização da receita poderá não comportar o cumprimento das metas de resultado primário ou nominal estabelecidas no Anexo de Metas Fiscais, os Poderes e o Ministério Público promoverão, por ato próprio e nos montantes necessários, nos trinta dias subsequentes, limitação de empenho e movimentação financeira, segundo os critérios fixados pela lei de diretrizes orçamentárias.
+-   **Art. 14°**: A concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes.
+-   **Art. 17°**: Considera-se insuficiente o atendimento das metas fiscais de que trata esta Lei Complementar quando o montante real das receitas for inferior ao fixado na lei de diretrizes orçamentárias, reduzido de, no mínimo, dez por cento.
+-   **Art. 23°**: É nulo de pleno direito o ato que provoque aumento da despesa total com pessoal nos cento e oitenta dias anteriores ao final do mandato do titular do respectivo Poder ou órgão referido no art. 20.
+-   **Art. 30°**: A repartição do produto da arrecadação dos tributos de competência dos Estados, do Distrito Federal e dos Municípios, o produto da arrecadação das contribuições por seus órgãos e entidades, e os recursos provenientes de transferências por parte da União serão creditados conforme os seguintes percentuais...
+-   **Art. 31°**: A pessoa responsável pelo controle interno, ao tomar conhecimento de qualquer irregularidade ou ilegalidade, dela dará ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária.
+-   **Art. 55°**: Os Tribunais de Contas alertarão os Poderes ou órgãos referidos no art. 20 quando constatarem qualquer das situações previstas nos arts. 54 e 55, para que sejam tomadas as providências necessárias à recondução dos montantes das despesas aos limites de que trata esta Lei Complementar.
