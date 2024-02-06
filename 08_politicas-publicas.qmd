@@ -1,47 +1,67 @@
 # EIXO TEMÁTICO 2 – POLÍTICAS PÚBLICAS
 
-##  Implementação de políticas públicas: problemas, dilemas e desafios.
+## Implementação de políticas públicas: problemas, dilemas e desafios.
 
-###  Arranjos institucionais para implementação de políticas públicas.
+### Arranjos institucionais para implementação de políticas públicas.
 
-##  Avaliação de políticas públicas.
+## Avaliação de políticas públicas.
 
-###  Principais componentes do processo de avaliação.
+### Principais componentes do processo de avaliação.
 
-##  Políticas de agricultura e pecuária.
+## Políticas de agricultura e pecuária.
 
-###  Política agrícola (Lei nº 8.171/1991 e alterações).
+### Política agrícola (Lei nº 8.171/1991 e alterações).
 
-###  Política Nacional de Desenvolvimento Regional (Decreto nº 9.810/2019).
+### Política Nacional de Desenvolvimento Regional (Decreto nº 9.810/2019).
 
-###  Plano Safra e políticas relacionadas (Moradia no Campo, Pronaf Bioeconomia, Programa Bioeconomia Brasil- Sociobiodiversidade, Pronaf Mais Alimentos, Programa Garantia de Preços para a Agricultura Familiar, Residência Profissional Agrícola, Programa de Aquisição de Alimento e Crédito Fundiário).
+### Plano Safra e políticas relacionadas (Moradia no Campo, Pronaf Bioeconomia, Programa Bioeconomia Brasil- Sociobiodiversidade, Pronaf Mais Alimentos, Programa Garantia de Preços para a Agricultura Familiar, Residência Profissional Agrícola, Programa de Aquisição de Alimento e Crédito Fundiário).
 
-###  Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) e Seguro da Agricultura Familiar (SEAF).
+#### Moradia no Campo
 
-###  Programa de Incentivo à Conformidade em Defesa Agropecuária (Lei nº 14.515/2022).
+#### Pronaf Bioeconomia
 
-###  Convenção Internacional para a Proteção dos Vegetais - CIVP (Decreto nº 5.759/2006).
+#### Programa Bioeconomia Brasil- Sociobiodiversidade
 
-##  Políticas territoriais: Estatuto da Terra (Lei nº 4.504/1964 e alterações).
+#### Pronaf Mais Alimentos
 
-###  Sistema Nacional de Cadastro Rural (Lei nº 5.868/1972 e alterações).
+#### Programa Garantia de Preços para a Agricultura Familiar
 
-###  Registros Públicos (Lei nº 6.015/1973 e alterações
+#### Residência Profissional Agrícola
 
-###  Regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal (Lei nº 11.952/2009 e alterações).
+#### Programa de Aquisição de Alimentos (PAA)
 
-##  Políticas dos Povos Tradicionais: Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (Decreto nº 6.040/2007).
+**Leitura: Análise Contemporânea do Programa De Aquisição de Alimentos (PAA): Conquistas e Desafios. Layze Rocha Cabido & Lilian Balmant Emerique. Livro: Direitos Humanos, Democracia e Desenhos Institucionais em Tempos de Crise. ISBN 978-85-7987-351-5**
 
-###  Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas – PNGATI (Decreto nº 7.747/2012 e alterações).
+a
 
-###  Demarcação das terras indígenas (Decreto nº 1.775/1996).
+#### Crédito Fundiário
 
-###  Identificação, reconhecimento, delimitação, demarcação e titulação das terras ocupadas por remanescentes das comunidades dos quilombos (Decreto nº 4.887/2003).
+### Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) e Seguro da Agricultura Familiar (SEAF).
 
-##  Lei de Florestas Públicas (Lei nº 11.284/2006 e alterações).
+### Programa de Incentivo à Conformidade em Defesa Agropecuária (Lei nº 14.515/2022).
 
-##  Lei de crimes ambientais (Lei nº 9.605/1998 e alterações).
+### Convenção Internacional para a Proteção dos Vegetais - CIVP (Decreto nº 5.759/2006).
 
-##  Políticas Públicas de ciência, tecnologia e inovação:
+## Políticas territoriais: Estatuto da Terra (Lei nº 4.504/1964 e alterações).
 
-###  Marco Legal de CT&I (Lei nº 13.243/2016, Constituição Federal art. 218 a 219-B).
+### Sistema Nacional de Cadastro Rural (Lei nº 5.868/1972 e alterações).
+
+### Registros Públicos (Lei nº 6.015/1973 e alterações)
+
+### Regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal (Lei nº 11.952/2009 e alterações).
+
+## Políticas dos Povos Tradicionais: Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (Decreto nº 6.040/2007).
+
+### Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas – PNGATI (Decreto nº 7.747/2012 e alterações).
+
+### Demarcação das terras indígenas (Decreto nº 1.775/1996).
+
+### Identificação, reconhecimento, delimitação, demarcação e titulação das terras ocupadas por remanescentes das comunidades dos quilombos (Decreto nº 4.887/2003).
+
+## Lei de Florestas Públicas (Lei nº 11.284/2006 e alterações).
+
+## Lei de crimes ambientais (Lei nº 9.605/1998 e alterações).
+
+## Políticas Públicas de ciência, tecnologia e inovação:
+
+### Marco Legal de CT&I (Lei nº 13.243/2016, Constituição Federal art. 218 a 219-B).
