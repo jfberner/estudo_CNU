@@ -2,8 +2,83 @@
 
 ## Introdução às políticas públicas: conceitos e tipologias.
 
+As políticas públicas são instrumentos essenciais para a efetivação do papel do Estado na sociedade, buscando solucionar problemas e promover o bem-estar coletivo. Neste contexto, é fundamental compreender os conceitos e as tipologias que permeiam esse universo.
+
+**Conceitos Fundamentais**: As políticas públicas referem-se às **ações e programas governamentais** voltados para a resolução de **demandas sociais, econômicas e culturais.** Elas buscam atender às necessidades da população, visando a construção de uma sociedade mais justa e equitativa.
+
+**Tipologias de Políticas Públicas:** Existem diferentes tipos de políticas públicas, cada uma focada em áreas específicas. Dentre as principais tipologias, destacam-se:
+
+-   **Políticas Sociais:** Voltadas para a garantia de direitos fundamentais, como saúde, educação e assistência social (e.g. Programa Nacional de Saúde da Família - PSF)
+-   **Políticas Econômicas**: Buscam o desenvolvimento econômico, controle da inflação e estímulo ao emprego (e.g. Plano Real)
+-   **Políticas Ambientais:** Visam à preservação do meio ambiente e utilização sustentável dos recursos naturais (e.g. Sistema Nacional do Meio Ambiente - SISNAMA).
+-   **Políticas Culturais:** Direcionadas à promoção da cultura, preservação do patrimônio e estímulo à diversidade cultural (e.g. Lei Rouanet).
+
 ## Ciclos de políticas públicas: agenda e formulação; processos de decisão; implementação, seus planos, projetos e programas; monitoramento e avaliação.
+
+O ciclo de políticas públicas inicia-se com a identificação de problemas na agenda governamental. Aqui, destaca-se a importância de compreender a formulação, que é a etapa de criação e desenvolvimento de propostas para solucionar esses problemas. Durante a formulação, são delineados planos, projetos e programas que nortearão a atuação do Estado.
+
+**Processos de Decisão:**
+
+Na **fase de decisão**, as propostas formuladas passam por análises e debates. É o momento em que as autoridades decidem quais políticas serão adotadas. Esse processo envolve a consideração de diferentes perspectivas e a escolha da abordagem mais adequada para a resolução dos problemas identificados.
+
+**Implementação e Seus Planos, Projetos e Programas:**
+
+Após a decisão, entra-se na **fase de implementação**, que consiste na colocação em prática das políticas. Aqui, os planos, projetos e programas são executados, e é crucial garantir eficiência e eficácia na aplicação das ações propostas. O sucesso da implementação depende de uma gestão eficiente e recursos adequados.
+
+**Monitoramento e Avaliação:**
+
+O ciclo encerra-se com o **monitoramento e avaliação** das políticas implementadas. O monitoramento visa acompanhar o desenvolvimento das ações em tempo real, enquanto a avaliação busca analisar os resultados alcançados. Essa fase fornece informações valiosas para ajustes e aprimoramentos futuros.
+
+Para ilustrar, considere a criação do programa Bolsa Família como um caso de formulação, a decisão de implementar o Plano Real como um exemplo de processo de decisão, a execução do programa Minha Casa, Minha Vida como implementação, e a avaliação do programa Mais Médicos como parte do monitoramento e avaliação.
 
 ## Institucionalização das políticas em Direitos Humanos como políticas de Estado.
 
+A institucionalização das políticas em Direitos Humanos representa um marco importante na **consolidação dessas iniciativas como políticas de Estado**. Essa dimensão reflete o comprometimento duradouro do governo em promover e proteger os direitos fundamentais de todos os cidadãos.
+
+**Políticas em Direitos Humanos como Políticas de Estado:** A transição de políticas isoladas para políticas de Estado implica em uma **abordagem sistêmica e permanente**. Isso significa que as ações voltadas para a promoção e defesa dos Direitos Humanos são **incorporadas de maneira estrutural nas instituições estatais**, transcendendo governos específicos.
+
+**Instituições e Mecanismos de Garantia:** Nesse contexto, é essencial a criação e fortalecimento de instituições e mecanismos dedicados à proteção dos Direitos Humanos. Comissões, ouvidorias, e conselhos especializados desempenham um papel crucial na fiscalização, monitoramento e formulação de políticas que visam assegurar a dignidade e igualdade de todos os cidadãos.
+
+A criação da Secretaria Nacional de Promoção e Defesa dos Direitos Humanos e a instauração do Sistema Nacional de Direitos Humanos são exemplos de medidas que contribuem para a institucionalização dessas políticas. Essas iniciativas buscam garantir a continuidade e a eficácia das ações em prol dos Direitos Humanos.
+
 ## Federalismo e descentralização de políticas públicas no Brasil: organização e funcionamento dos sistemas de programas nacionais.
+
+O federalismo brasileiro estabelece a **divisão de competências** entre a União, os Estados, o Distrito Federal e os Municípios. Nesse contexto, a descentralização de políticas públicas é um princípio essencial, visando uma gestão mais **próxima da realidade local** e a efetivação das **necessidades específicas de cada ente federativo**.
+
+**Organização e Funcionamento dos Sistemas de Programas Nacionais:** Os sistemas de programas nacionais representam uma estratégia para coordenar a implementação de políticas em âmbito nacional. Eles englobam ações de diversos setores, como saúde, educação e assistência social. A organização desses sistemas visa garantir a articulação entre os entes federativos e a eficiência na execução das políticas.
+
+**Descentralização como Princípio:** A descentralização busca fortalecer a autonomia dos Estados e Municípios na gestão de políticas públicas, permitindo que adaptem as estratégias às peculiaridades locais. Isso promove uma maior efetividade nas ações, uma vez que os gestores locais têm um conhecimento mais aprofundado das demandas e realidades de suas regiões.
+
+A criação do Sistema Único de Saúde (SUS) e do Sistema Único de Assistência Social (SUAS) são exemplos de como o Brasil estrutura sistemas de programas nacionais, promovendo a descentralização e a integração de ações em benefício da população.
+
+## Leitura: Políticas públicas e direito administrativo. Maria Paula Dallari Bucci. *Revista de Informação Legislativa.* Brasília a. 34 n. 133 jan./mar. 1997.
+
+*Esse texto é argumentativo sobre a inclusão ou não do estudo de políticas públicas dentro do Direito Administrativo. Embora a discussão seja interessante, é irrelevante para o propósito deste documento. Trarei aqui somente os conceitos, definições e questões relevantes ao entendimento do que são as políticas públicas. São frases pescadas e por vezes desconexas.*
+
+As Políticas Públicas não nasceram com o Estado. O modo como se estruturou o Estado liberal é mais voltado à limitação do poder para a garantia das liberdades individuais, em sentido omissivo, do que à ação do Estado, em sentido comissivo e construtivo. Os Poderes e suas atribuições foram concebidos em torno da autoridade do estado, e não conformadas ao caráter **prestacional e de gestão** que a Administração assume hoje.
+
+Com o fim da Segunda Guerra Mundial e o advento de políticas sociais de saúde, seguridade social e habitação, muito expressivo nos países da Europa e nos Estados Unidos, há um aprofundamento dessa alteração qualitativa das funções do Estado, que se irradia sobre o conteúdo social da noção de cidadania. O Estado (social) passa a ser caracterizado pela existência de um modo de agir dos governos ordenado sob a forma de políticas públicas, um conceito mais amplo que o de serviço público, que abrange também as funções de coordenação e de fiscalização dos agentes públicos e privados.
+
+O que justifica e marca o aparecimento das políticas públicas é o surgimento dos **direitos sociais** (direitos de segunda geração - ver capítulo 2.4), que só podem ser realizados se for imposto a outros (incluídos aqui os órgãos públicos) obrigações positivas. A função estatal de coordenar as ações públicas (serviços públicos) e privadas para a realização de direitos dos cidadãos – à saúde, à habitação, à previdência, à educação – legitima-se pelo convencimento da sociedade quanto à necessidade de realização desses direitos sociais.
+
+Mas esse raciocínio não basta para explicar as demais políticas públicas, como a política industrial, a política de energia, a política de transportes e outras, que não se fundam na realização imediata de direitos sociais. Essas são políticas **de desenvolvimento**. Além disso, as **políticas hoje são instrumentos de ação dos governos**. A função de governar – o uso do poder coativo do Estado a serviço da coesão social – seria, portanto, o fundamento imediato das políticas públicas.
+
+Existe uma falta de consenso da doutrina brasileira sobre a forma metodológica de conceituar as políticas públicas. As definições enfocam ângulos variados, desde as noções mais gerais, como “a política é a teoria, arte e prática do governo, para a direção dos negócios públicos”, até as definições específicas, como “o conjunto de conhecimentos sobre...”; “conjunto de medidas...”, “ação de caráter oficial...”, “ciência e arte de conduzir os assuntos...”. Há uma certa proximidade entre as noções de política pública e a de plano, embora a política possa consistir num programa de ação governamental que não se exprima, necessariamente, no instrumento jurídico do plano.
+
+A expressão mais frequente das políticas públicas é o plano (embora com ele não se confunda), que pode ter caráter geral, como é o Plano Nacional de Desenvolvimento, ou regional, ou ainda setorial, quando se trata, por exemplo, do Plano Nacional de Saúde, do Plano de Educação etc. Nesses casos, o instrumento normativo do plano é a lei, na qual se estabelecem os objetivos da política, suas metas temporais, os instrumentos institucionais de sua realização e outras condições de implementação.
+
+No sistema constitucional brasileiro, as políticas públicas mais comumente se expressam por meio de leis. O artigo 165 da Constituição de 1988 define os orçamentos públicos como instrumentos de fixação das “**diretrizes, objetivos e metas**”(§ 1º), além das “**prioridades**”(§ 2º) da administração pública. O mesmo artigo fala também em “**planos** e **programas**”, confirmando a multiplicidade de formas que podem assumir as políticas públicas. Há, no entanto, políticas que se traduzem em programas de ação, em sentido estrito, como o Programa de Material Escolar, o Programa do Álcool, cujo detalhamento se exprime por meio de formas normativas infralegais, como decretos, portarias ou resoluções.
+
+Há, ainda, uma distinção das políticas públicas quanto ao que poderíamos classificar como “nível hierárquico”, em relação aos fins. Assim, por exemplo, a política nacional de educação é uma política geral para o setor da educação, política “de fins”, cuja execução supõe a formulação de políticas “de meios”, que digam respeito à contratação de pessoal (política de recursos humanos), à construção de prédios escolares, etc.
+
+A política pública transcende os instrumentos normativos do plano ou do programa. Há, no entanto, um paralelo evidente entre o processo de formulação da política e a atividade de planejamento.
+
+A quem compete formular as políticas públicas, ao Poder Legislativo ou ao Executivo? Parece relativamente tranquila a ideia de que as grandes linhas das políticas públicas, as diretrizes, os objetivos são opções políticas que cabem aos representantes do povo e, portanto, ao Poder Legislativo, que as organiza em forma de leis de caráter geral e abstrato, para execução pelo Poder Executivo.
+
+Entretanto, a realização concreta das políticas públicas demonstra que o próprio caráter diretivo do plano ou do programa implica a permanência de uma parcela da atividade “formadora” do direito nas mãos do Poder Executivo, perdendo-se a nitidez da separação entre os dois centros de atribuições. Governar não significa tão-só a administração do presente, isto é, a gestão de fatos conjunturais, mas também e sobretudo o planejamento do futuro, pelo estabelecimento de políticas a médio e longo prazo.
+
+## Leitura: A tragédia orçamentária brasileira: Crise, Corrupção e Dominação das Políticas Públicas. Licurgo Mourão. *A crise do federalismo em estado de pandemia - Volume 2. ISBN 978-65-5932-022-6*
+
+*Este artigo foi escrito no contexto da pandemia. Visa trazer a proposta de mudanças estruturais para além do teto de gastos e intervenções econômicas pontuais. Ele versa sobre a tomada de decisão fo Poder Público e as ineficiências nesse processo. Não achei relevante para o tema deste capítulo.*
+
+Meh, nada de importante.
