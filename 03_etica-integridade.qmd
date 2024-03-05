@@ -194,8 +194,7 @@ Princípios:
 
 Criado pelo Decreto n° 11.2529/2023 ⭐, traz conceitos importantes de serem conhecidos por todos os servidores:
 
--   **Programa de integridade:** conjunto de **princípios**, **normas**, procedimentos e mecanismos de prevenção, detecção e remediação de
-    práticas de corrupção e fraude, de irregularidades, ilícitos e outros desvios éticos e de conduta, de violação ou desrespeito a direitos, valores e princípios que impactem a confiança, a credibilidade e a reputação institucional. O programa de integridade tem o objetivo de promover a conformidade de condutas, a transparência, a priorização do interesse público e uma cultura organizacional voltada à entrega de valor público à sociedade;
+-   **Programa de integridade:** conjunto de **princípios**, **normas**, procedimentos e mecanismos de prevenção, detecção e remediação de práticas de corrupção e fraude, de irregularidades, ilícitos e outros desvios éticos e de conduta, de violação ou desrespeito a direitos, valores e princípios que impactem a confiança, a credibilidade e a reputação institucional. O programa de integridade tem o objetivo de promover a conformidade de condutas, a transparência, a priorização do interesse público e uma cultura organizacional voltada à entrega de valor público à sociedade;
 
 -   **Plano de integridade:** plano que **organiza as medidas de integridade** a serem adotadas em determinado período, elaborado por unidade setorial do Sitai e aprovado pela autoridade máxima do órgão ou da entidade;
 
@@ -217,8 +216,7 @@ Criado pelo Decreto n° 11.2529/2023 ⭐, traz conceitos importantes de serem co
 -   foco no cidadão para definição de prioridades de transparência ativa e abertura de dados e informações;
 -   **participação** da sociedade na formulação, na execução e no monitoramento das políticas públicas e no controle da aplicação de seus recursos;
 -   utilização de tecnologias de informação e de comunicação para disseminação e incentivo ao uso de dados e informações;
--   compartilhamento de informações com vistas ao estímulo à pesquisa, à inovação, à produção científica, à geração de negócios e ao
-    desenvolvimento econômico e social do País;
+-   compartilhamento de informações com vistas ao estímulo à pesquisa, à inovação, à produção científica, à geração de negócios e ao desenvolvimento econômico e social do País;
 -   melhoria da gestão das informações disponibilizadas pela administração pública federal para a provisão mais eficaz e eficiente de serviços públicos e para a prestação de contas adequada à sociedade;
 -   combate à corrupção por meio da inibição da prática de atos ilícitos na administração pública federal e de desvios de conduta de agentes públicos;
 -   respeito à proteção dos dados pessoais.
