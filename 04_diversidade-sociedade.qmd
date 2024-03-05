@@ -1,5 +1,155 @@
-#  DIVERSIDADE E INCLUSÃO NA SOCIEDADE
+# DIVERSIDADE E INCLUSÃO NA SOCIEDADE
 
-##  Diversidade de sexo, gênero e sexualidade; diversidade étnico-racial; diversidade cultural.
+**Conceitos Fundamentais de Diversidade e Inclusão:**
 
-##  Desafios sociopolíticos da inclusão de grupos vulnerabilizados: crianças e adolescentes; idosos; LGBTQIA+; pessoas com deficiências; pessoas em situação de rua, povos indígenas, comunidades quilombolas e demais minorias sociais.
+-   **Diversidade**: Variedade de características entre indivíduos, incluindo raça, gênero, orientação sexual, habilidades, entre outros.
+-   **Inclusão**: Promoção de ambientes e práticas que valorizam e incorporam a diversidade, garantindo a participação de todos.
+
+**Desafios e Benefícios da Diversidade:**
+
+-   **Desafios**: Estereótipos, preconceitos e discriminação.
+-   **Benefícios**: Criatividade, inovação e representatividade.
+
+**Políticas Públicas de Promoção da Diversidade e Inclusão:**
+
+-   **Ações Afirmativas**: Medidas para corrigir desigualdades históricas, como cotas para minorias em instituições de ensino e trabalho.
+-   **Educação Inclusiva**: Garantia de acesso à educação para todos, independentemente de suas características.
+
+**Papel do Setor Público na Promoção da Diversidade e Inclusão:**
+
+-   **Legislação Antidiscriminatória**: Estabelecimento de leis que proíbem discriminação em diversas áreas.
+-   **Programas de Capacitação**: Treinamentos para conscientizar e sensibilizar os servidores sobre a importância da diversidade.
+
+**A Importância da Diversidade e Inclusão no Ambiente de Trabalho:**
+
+-   **Ambiente Produtivo**: Diversidade contribui para a criação de ambientes mais inovadores e produtivos.
+-   **Bem-Estar dos Funcionários:** Inclusão promove um ambiente de trabalho saudável e acolhedor.
+-   **Imagem Institucional**: Organizações que valorizam a diversidade têm uma imagem mais positiva.
+
+**Inclusão de Pessoas com Deficiência:**
+
+-   **Lei de Cotas**: Estabelece percentuais de contratação de pessoas com deficiência nas empresas.
+-   **Acessibilidade**: Garantia de que espaços e serviços sejam acessíveis a todos, independente de suas limitações.
+
+**Educação e Conscientização para a Diversidade:**
+
+-   **Campanhas de Sensibilização**: Iniciativas para conscientizar a sociedade sobre a importância da diversidade.
+-   **Educação para a Tolerância**: Promoção de valores que respeitem as diferenças.
+
+## Diversidade de sexo, gênero e sexualidade; diversidade étnico-racial; diversidade cultural.
+
+**Diversidade de Sexo, Gênero e Sexualidade:**
+
+-   **Sexo**: Refere-se às características biológicas que distinguem homens e mulheres.
+-   **Gênero**: Construção social e cultural dos papéis e comportamentos associados a homens e mulheres.
+-   **Sexualidade**: Orientação afetiva e sexual de cada indivíduo.
+
+**Diversidade Étnico-Racial:**
+
+-   **Etnia**: Compreende características culturais, linguísticas e históricas que identificam um grupo.
+-   **Raça**: Conceito social que categoriza as pessoas com base em características físicas, como cor da pele.
+-   **Diversidade Racial**: Reconhecimento e valorização das diferentes raças e etnias.
+
+![](images/paste-3.png){fig-alt="source: wikipedia, ibge 2022" fig-align="center"}
+
+**Diversidade Cultural**:
+
+-   **Cultura**: Conjunto de valores, tradições, crenças e práticas compartilhadas por uma comunidade.
+-   **Diversidade** **Cultural**: Respeito e valorização das diferentes manifestações culturais presentes em uma sociedade.
+
+**Importância da Abordagem da Diversidade**:
+
+-   **Promoção da Igualdade**: Reconhecimento e combate às desigualdades baseadas em características individuais.
+-   **Inclusão Social**: Criação de ambientes acolhedores para todos, independentemente de suas características.
+-   **Combate ao Preconceito**: Desconstrução de estereótipos e preconceitos relacionados a sexo, gênero, raça e cultura.
+-   **Enriquecimento Social**: Aproveitamento das diferentes perspectivas e experiências para o benefício de toda a sociedade.
+
+**Desafios a serem Superados:**
+
+-   **Discriminação**: Combate à discriminação com base em características individuais.
+-   **Estereótipos**: Desconstrução de estereótipos que perpetuam preconceitos.
+-   **Acesso** **Equitativo**: Garantia de oportunidades iguais para todos, independentemente de suas características.
+
+**Políticas Públicas e Iniciativas:**
+
+-   **Leis Antidiscriminatórias**: Estabelecimento de leis que proíbem a discriminação com base em características individuais.
+-   **Campanhas** **de** **Conscientização**: Iniciativas para promover a conscientização sobre a importância da diversidade.
+-   **Programas de Inclusão**: Ações governamentais e empresariais para garantir a inclusão de todos os grupos na sociedade.
+
+## Desafios sociopolíticos da inclusão de grupos vulnerabilizados: crianças e adolescentes; idosos; LGBTQIA+; pessoas com deficiências; pessoas em situação de rua, povos indígenas, comunidades quilombolas e demais minorias sociais.
+
+**Crianças e Adolescentes**:
+
+-   **Desafios**: Vulnerabilidade a abusos, falta de acesso à educação e saúde adequada, exploração infantil.
+-   **Políticas** **Necessárias**: Garantia de direitos, proteção contra abusos, acesso a educação de qualidade.
+
+**Idosos**:
+
+-   **Desafios**: Isolamento social, discriminação, falta de assistência adequada.
+-   **Políticas Necessárias**: Promoção da saúde na terceira idade, combate ao preconceito, políticas de inclusão social.
+
+**LGBTQIA+**:
+
+-   **Desafios**: Discriminação, violência, falta de reconhecimento de direitos.
+-   **Políticas Necessárias**: Legislação antidiscriminatória, promoção da igualdade, conscientização social.
+
+**Pessoas com Deficiências**:
+
+-   **Desafios**: Barreiras de acessibilidade, discriminação, falta de oportunidades.
+-   **Políticas Necessárias**: Acessibilidade universal, inclusão educacional e profissional, combate ao preconceito.
+
+**Pessoas em Situação de Rua**:
+
+-   **Desafios**: Exclusão social, falta de moradia, acesso limitado a serviços básicos.
+
+-   **Políticas Necessárias**: Programas de acolhimento, assistência social, políticas habitacionais.
+
+**Povos Indígenas**:
+
+-   **Desafios**: Perda de território, discriminação, preservação da cultura.
+
+-   **Políticas Necessárias**: Respeito aos direitos territoriais, preservação cultural, inclusão social.
+
+**Comunidades Quilombolas**:
+
+-   **Desafios**: Discriminação, acesso limitado a serviços públicos.
+
+-   **Políticas Necessárias**: Reconhecimento dos territórios quilombolas, promoção da igualdade.
+
+**Demais Minorias Sociais**:
+
+-   **Desafios**: Discriminação, falta de representatividade, acesso limitado a oportunidades.
+
+-   **Políticas Necessárias**: Promoção da representatividade, igualdade de oportunidades, combate à discriminação.
+
+**Abordagem Integrada**:
+
+-   **Interseccionalidade**: Reconhecimento da multiplicidade de identidades e desafios enfrentados por indivíduos pertencentes a múltiplos grupos de vulnerabilidade.
+
+-   **Participação** **Social**: Inclusão das comunidades afetadas nas decisões e políticas que as impactam.
+
+## Leitura: A educação e os desafios para a inclusão de grupos em situação de risco ou vulnerabilidade social. Thoma, Adriana da Silva; Hillesheim, Betina**. SciELO Humanas. ([link](https://www.scielo.br/j/ccedes/i/2021.v41n114/))**
+
+*Dossiê organizado pelas duas pesquisadoras.*
+
+Os textos, a partir de realidades de diferentes regiões do país e também da Argentina, sinalizaram como as políticas de inclusão podem ser percebidas a partir de uma perspectiva ambígua: se, por um lado, possibilitam novas relações com a diferença e convocam para a criação de uma sociedade inclusiva, em algumas situações produzem uma inclusão excludente, que podem se manifestar, por exemplo, na invisibilização de alguns grupos sociais, étnicos e culturais ou pelos contextos de precariedade a que alguns grupos são expostos.
+
+Assinala-se, ainda, que a inclusão é produzida a partir de um *ethos* neoliberal, que classifica o mundo a partir de critérios de utilidade, incitando a produção de sujeitos flexíveis, ativos e aptos a concorrer, sendo que, a partir dessa lógica de mercado, a vulnerabilidade de determinados sujeitos ou grupos é compreendida como um obstáculo ao desenvolvimento da sociedade, sendo a inclusão uma forma de gerir riscos e regular condutas.  Desse modo, pode-se perceber que os contornos da inclusão são paradoxais, deslocando-se entre uma necessidade de reconhecimento e valorização de grupos minoritários e, ao mesmo tempo, a manutenção de lógicas excludentes.
+
+### A Judicialização da Inclusão: o Governo pela Lei. Thoma, Adriana da Silva; Hillesheim, Betina; Siqueira, Carolina de Freitas Corrêa. ([link](https://www.scielo.br/j/ccedes/a/thNZWXJmWjTjfQBj4bZKxGh/?format=pdf&lang=pt))
+
+A judicialização da inclusão envolve processos mobilizados para o cumprimento das determinações legais que visam promover a inclusão.
+
+Embora a inclusão esteja inscrita em um contexto de garantia de direitos, produção de condutas inclusivas e estabelecimento de outros modos de relação com as diferenças requerem a intervenção do Estado.
+
+Embora a inclusão possa ser analisada como um imperativo de Estado inscrito em um espaço gerido por uma governamentalidade biopolítica, o objetivo de produzir novas relações com as diferenças coexiste com processos de invisibilização/exclusão de grupos sociais, étnicos e culturais. Apesar da busca pela captura da maior margem populacional possível, o que caracteriza ações promovidas no âmbito da governamentalidade biopolítica, pode ser percebido como cenário de ambiguidades no que tange às formas como a inclusão das diferenças se inscreve (ou não) em determinados lugares.
+
+Distinção entre os posicionamentos referentes aos processos de judicialização: por um lado, há aqueles que entendem que a judicialização é necessária no sentido de garantia de direitos, colocando-a na esfera da proteção social; por outro, há posições que problematizam a ideia de proteção, entendendo-a como regulação de formas de viver.
+
+Se são criadas leis e políticas de inclusão no Brasil, é porque a exclusão ainda existe, mesmo diante de um amparo legal que data do fim dos anos 1980. Assim, além do amparo da lei, são necessárias ações que produzam a inclusão como uma verdade.
+
+Convenção Internacional sobre os Direitos das Pessoas com Deficiência: “se não houver acessibilidade, significa que há discriminação, condenável do ponto de vista moral e ético e punível na forma da lei”.
+
+Entrar no jogo da inclusão passa a fazer parte de uma dinâmica que gravita em torno de verdades acerca da necessidade do desenvolvimento de ações inclusivas. Por intermédio do Poder Judiciário, o Estado regula os rumos da promoção da inclusão pela articulação entre fiscalização, intervenção e orientação, produzindo modos de ser inclusivos. Nesse panorama, os contornos da inclusão podem ser pensados como sintomáticos de tempos ambíguos e paradoxais; tempos que reconhecem a necessidade da valorização das minorias e que mantêm, simultaneamente, lógicas excludentes em suas estruturas sociais. Nesse caminho, analisamos que é a necessidade da interferência do Poder Judiciário na promoção de ações de equidade e inclusão que permite a inscrição daquilo que aqui chamamos de judicialização da inclusão.
+
+### Vulnerabilidade da População Negra e Políticas Educacionais no Brasil. Hüning, Simone Maria; Silva, Aline Kelly da; Netto Braga, Tathina Lúcio. ([link](https://www.scielo.br/j/ccedes/a/ypZvGwnkc3hNLKCTC4bSQcd/?format=pdf&lang=pt))
